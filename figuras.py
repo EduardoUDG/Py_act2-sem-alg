@@ -16,8 +16,8 @@ def cuadrado()->None:
     input("")
 
 def triangulo()->None:
-    base    = float( input("Ingresa la base del rectangulo: ") )
-    altura  = float( input("Ingresa la altura del rectangulo: ") )
+    base    = float( input("Ingresa la base del triangulo: ") )
+    altura  = float( input("Ingresa la altura del triangulo: ") )
     print("El area es: ", (base * altura) / 2)
     input("")
 
